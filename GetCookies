@@ -1,0 +1,10 @@
+https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/thyc.conf, tag=途虎获取token, update-interval=172800, opt-parser=false, enabled=true
+https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/tmkk.conf, tag=托迈酷客获取token, update-interval=172800, opt-parser=false, enabled=true
+https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/iqiyi.conf, tag=爱奇艺获取token, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.qxrewrite, tag=叮咚买菜_获取Cookie, update-interval=172800, opt-parser=false, enabled=true
+https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/bilibili.conf, tag=b站签到获取token, update-interval=172800, opt-parser=false, enabled=true
+https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/TestFlight.conf, tag=TestFlight自动加入获取appId, update-interval=172800, opt-parser=false, enabled=true
+https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/bwcj.conf, tag=霸王茶姬获取token, update-interval=172800, opt-parser=false, enabled=true
+https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/mtmc.conf, tag=美团买菜获取token, update-interval=172800, opt-parser=false, enabled=true
+https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/smzdm.conf, tag=什么值得买获取token, update-interval=172800, opt-parser=false, enabled=true
+https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/hzh.conf, tag=华住会获取token, update-interval=172800, opt-parser=false, enabled=true
