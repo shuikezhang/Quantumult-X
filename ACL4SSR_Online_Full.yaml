@@ -470,8 +470,8 @@ rule-providers:
     type: http
 
 rules:
-  - DOMAIN-SUFFIX,oa,DIRECT
-  - DOMAIN-SUFFIX,wlan,DIRECT
+  - DOMAIN-KEYWORD,oa,DIRECT
+  - DOMAIN-KEYWORD,wlan,DIRECT
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
   - "RULE-SET,BanAD,🛑 广告拦截"
