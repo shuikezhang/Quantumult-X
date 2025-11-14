@@ -470,7 +470,8 @@ rule-providers:
     type: http
 
 rules:
-  - DOMAIN-SUFFIX,hq.cmcc,DIRECT
+  - DOMAIN-SUFFIX,oa,DIRECT
+  - DOMAIN-SUFFIX,wlan,DIRECT
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
   - "RULE-SET,BanAD,🛑 广告拦截"
